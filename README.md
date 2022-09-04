@@ -1,6 +1,6 @@
 # Qris Menu Application
 ```
-Before selecting interns, we would like to give you a task.
+
 You have to prepare a menu for any of the following:
 1. Veg Restaurant
 2. South Indian Restaurant
