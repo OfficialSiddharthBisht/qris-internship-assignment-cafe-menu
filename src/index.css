@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: hsl(210, 36%, 96%);
+  background: hsl(63, 96%, 69%);
   color: hsl(209, 61%, 16%);
 }
 
@@ -13,14 +13,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.navbar{
+  background-color: whitesmoke;
+  margin: auto;
+  width: 90%;
+}
 .navbar ul{
   display: flex;
   justify-content: space-around;
 }
 .navbar ul li{
   background: transparent;
-  border-color: transparent;
-  font-size: 1.5rem;
+  border-color: rgb(201, 244, 8);
+  font-size: 1.25rem;
   font-weight: bolder;
   text-transform: capitalize;
   margin: 0 0.5rem;
@@ -30,8 +35,13 @@ code {
   cursor: pointer;
   transition: all 0.3s linear;
   border-radius: 0.25rem;
-  list-style: none;
-  
+  list-style: none; 
+}
+.navbar ul li :hover{
+  font-size: 1.5rem;
+}
+.navbar ul li *{
+  text-decoration: none;
 }
 
 
@@ -75,7 +85,7 @@ p {
 .title {
   background-color: white;
   text-align: center;
-  margin-bottom: 2rem;
+  margin-bottom: 0.5rem;
 }
 
 .underline {
@@ -137,7 +147,7 @@ p {
 .logo {
   object-fit: cover;
   height: auto;
-  width: 200px;
+  width: 220px;
   border-radius: 0.25rem;  
 }
 

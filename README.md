@@ -1,4 +1,5 @@
-# Qris Menu Application
+# Qris Internship Menu Application Assignment
+## Siddharth Bisht
 ```
 
 You have to prepare a menu for any of the following:
