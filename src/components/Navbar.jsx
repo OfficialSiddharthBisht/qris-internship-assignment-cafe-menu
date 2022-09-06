@@ -8,7 +8,8 @@ const Navbar = () => {
             <div className="menu section">
                 <div className="title">
                     <img src={logo} alt="logo" className="logo" />
-                    <h1>Menu List</h1>
+                    <h1>Cafe's Menu </h1>
+                    <p>...... One meal from Food Hub a day keeps the hunger away ......</p>
                     <div className="underline"></div>
                 </div>
             </div>
