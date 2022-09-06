@@ -17,7 +17,6 @@ const Navbar = () => {
                 <li><Link to="/">Home</Link></li>
                 <li><Link to="/breakfast">Breakfast</Link></li>
                 <li><Link to="/lunch">Lunch</Link></li>
-                <li><Link to="/dinner">Dinner</Link></li>
             </ul>
             </div>
         </div>
